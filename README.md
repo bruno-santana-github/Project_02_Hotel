@@ -1,0 +1,2 @@
+This is a project for a hotel website. The entire project was designed in html5 and css3. Responsiveness was included in the project to work on any mobile device.
+In this project I try to show my skills with Html5 and modern CSS3, in addition to demonstrating my skills with SEO Tags.
